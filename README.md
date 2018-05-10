@@ -3,7 +3,7 @@
 Set-up aws-cli with access key and secret key
 
 Commands: 
-Insatll aws-cli in system: 
+Install aws-cli in system: 
 https://docs.aws.amazon.com/cli/latest/userguide/installing.html
 
 Run Command
