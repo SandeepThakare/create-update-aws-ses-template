@@ -19,5 +19,5 @@ set default output type
 2. Update the ses template in aws ses service
 
 to run these file:
-node createTemplate.js - To create template
-node updateTemplate.js - To update template
+1. node createTemplate.js - To create template
+2. node updateTemplate.js - To update template
